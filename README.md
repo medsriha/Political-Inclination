@@ -14,8 +14,7 @@ The overarching goal of the problem is to "predict" the political inclination (R
 - `realDonaldTrump, mike_pence, GOP` are Republicans
 - `HillaryClinton, timkaine, TheDemocrats` are Democrats
 
-To be able to run and test the code, you need to extract `realDonaldTrump`, `mike_pence`, `GOP`, `HillaryClinton`, `timkaine` and `TheDemocrats` tweets  from the Twitter API. You also need to extract random numbers of tweets to create a test dataset.
-The test dataset is used to classify and predict the political inclination of the random tweets. 
+The tweets_test.csv dataset is used to classify and predict the political inclination of the tweets. 
 
 **Packages:**
 
