@@ -11,6 +11,7 @@ For every tweet, we collected two pieces of information:
 - `text`: the content of the tweet.
 
 The overarching goal of the problem is to "predict" the political inclination (Republican/Democratic) of the Twitter user from one of his/her tweets. The ground truth is determined from the `screen_name` of the tweet as follows
+### Training Data
 - `realDonaldTrump, mike_pence, GOP` are Republicans
 - `HillaryClinton, timkaine, TheDemocrats` are Democrats
 
